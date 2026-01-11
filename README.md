@@ -1,4 +1,8 @@
 # Globalnoe-Poteplenie
 #Konstantin
-апавпвпв
+апжв
+пжврввдв
+рвдж
+рдв
+ждввыапыаы
 
