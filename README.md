@@ -8,7 +8,7 @@ import random
 import os
 import requests
 print(os.listdir("images"))
-API_TOKEN = '7969813281:AAFlu0da7m9w1AKH6AVYPLBnfKJJBTQFhFc'
+API_TOKEN = '8396512413:AAHLroL2XEe1rrlisNaoYLHGRR1QbKvosfg'
 bot = telebot.TeleBot(API_TOKEN)
 
 # Handle '/start' and '/help'
