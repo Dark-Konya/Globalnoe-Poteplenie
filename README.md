@@ -14,8 +14,7 @@ bot = telebot.TeleBot(API_TOKEN)
 # Handle '/start' and '/help'
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
-    bot.reply_to(message, """ вот команды для использования:/Start,/Facts,/Daily_tip,/homeactions,/travelchoices,/travelchoices,/ask,/reduceplan,
-""")
+    bot.reply_to(message, """ вот команды для использования:/Start,/Facts,/Daily_tip,/homeactions,/travelchoices,/travelchoices,/ask,/reduceplan""")
 # Handle all other messages with content_type 'text' (content_types defaults to ['text'])
 
 @bot.message_handler(commands=["Facts"])
